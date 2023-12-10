@@ -7,6 +7,6 @@
   
 </ul>
 
-<p style="color: green">namasaya</p>p
+<p style="color: green">namasaya</p>
 <p style="color: #00FF00">namasaya</p>
 <p style="color: rgb(0, 255, 0)">namasaya</p>
